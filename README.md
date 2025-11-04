@@ -1,4 +1,10 @@
-# 🌍 Hey there, I'm Arun Thomas 👋  
+<!-- Animated banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1ED760&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Arun+Thomas+👋;Full-Stack+Developer+%7C+Product-Minded+Engineer;Building+scalable,+human-centered+digital+experiences" alt="Typing SVG" />
+</p>
+
+<!-- Profile title -->
+# 🌍 Hey there, I'm Arun Thomas  
 <p align="center">
   <strong>Full-Stack Developer • Product-Minded Engineer • Community Builder</strong>  
 </p>
@@ -6,6 +12,7 @@
   <em>I design and build human-centered digital experiences that blend clean design, performance, and purpose.</em>  
 </p>
 
+<!-- Social badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
   <a href="mailto:YOUR-EMAIL@EXAMPLE.COM"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -25,7 +32,7 @@
 
 ## 🧰 Tech Toolkit
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,php,dart,flutter,figma,canva&theme=light" alt="Tech Stack Icons">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,php,dart,flutter,figma,canva&theme=dark" alt="Tech Stack Icons">
 </p>
 
 ---
@@ -70,6 +77,13 @@
 ## 🧩 GitHub Streak & Activity
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arun375797&theme=radical" alt="GitHub Streak" height="150"/>
+</p>
+
+---
+
+## ⚡ Animated Touch
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
 </p>
 
 ---

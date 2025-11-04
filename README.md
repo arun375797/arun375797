@@ -48,11 +48,6 @@
 - 🎯 Delivered production-ready web apps that streamline daily workflows for end users.
 - 🤝 Collaborated with designers, PMs, and founders to translate ideas into lovable products.
 
-### 📈 GitHub Snapshot
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajaypalamkunnel&show_icons=true&theme=radical" alt="GitHub stats" height="165">
-  <img src="https://streak-stats.demolab.com?user=ajaypalamkunnel&theme=radical&hide_border=true" alt="GitHub streak" height="165">
-</p>
 
 ### ✨ Fun Facts
 - 🎨 Design enthusiast who loves moodboards, micro-interactions, and tight typography.

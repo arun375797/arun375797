@@ -1,6 +1,9 @@
 <!-- Animated banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1ED760&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Arun+Thomas+👋;Full-Stack+Developer+%7C+Product-Minded+Engineer;Building+scalable,+human-centered+digital+experiences" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1ED760&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Arun+Thomas+👋;Full-Stack+Developer+%7C+Product-Minded+Engineer;Building+scalable,+human-centered+digital+experiences" 
+    alt="Typing SVG" 
+  />
 </p>
 
 <!-- Profile title -->

@@ -1,74 +1,87 @@
-# Hey there, I'm Arun Thomas 👋
-
+# 🌍 Hey there, I'm Arun Thomas 👋  
 <p align="center">
-  <strong>Full-stack Developer & Community Builder</strong> • Product-minded Engineer • Lifelong Learner
+  <strong>Full-Stack Developer • Product-Minded Engineer • Community Builder</strong>  
 </p>
 <p align="center">
-  <em>I craft human-centered digital experiences, mentor peers, and stay curious about every new wave in tech.</em>
+  <em>I design and build human-centered digital experiences that blend clean design, performance, and purpose.</em>  
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:YOUR-EMAIL@EXAMPLE.COM"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://twitter.com/YOUR-TWITTER-HANDLE" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://www.instagram.com/YOUR-INSTAGRAM-HANDLE/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <a href="mailto:YOUR-EMAIL@EXAMPLE.COM"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://twitter.com/YOUR-TWITTER-HANDLE" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://www.instagram.com/YOUR-INSTAGRAM-HANDLE/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 ---
 
-### 🚀 About Me
-- 🔭 Building full-stack projects that balance performance, accessibility, and business value.
-- 💡 Passionate about blending clean UI with scalable architecture across web and mobile.
-- 🌱 Currently exploring cloud-native tooling, DevOps automation, and design systems.
-- 🤝 Always open to teaming up on ambitious products, open-source, or community initiatives.
+## 🚀 About Me
+- 💼 I build full-stack applications focused on **scalability, performance, and intuitive UX**.  
+- 🧩 I believe good code is both **an art form and an engineering discipline**.  
+- 🌱 Exploring **cloud-native development, automation pipelines, and modern design systems**.  
+- 💬 I mentor peers, contribute to community projects, and never stop learning.  
 
-### 🧰 Tech Toolkit
+---
+
+## 🧰 Tech Toolkit
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,php,dart,flutter,figma,canva&theme=light" alt="Tech Stack Icons">
 </p>
 
-### 💡 What I'm Building
-- 🧭 Designing intuitive, data-informed experiences that delight users and stakeholders alike.
-- 🛠️ Shipping MVPs fast with modern stacks, automation, and thoughtful documentation.
-- 📚 Mentoring peers on JavaScript, UI engineering, and collaborative open-source workflows.
+---
 
-### 🏆 Highlights
-- 🏅 Steered multidisciplinary teams to ship polished solutions during hackathons and client work.
-- 🚀 Led developer meetups and study circles that helped peers ramp up on modern tooling.
-- 🎯 Delivered production-ready web apps that streamline daily workflows for end users.
-- 🤝 Collaborated with designers, PMs, and founders to translate ideas into lovable products.
+## 🧠 Current Focus
+- 🧭 Crafting seamless user journeys with performance-driven frontends.  
+- ⚙️ Building backend APIs that scale — clean, modular, and well-documented.  
+- 🤝 Collaborating with designers and product minds to make ideas tangible.  
 
-### 📈 GitHub Snapshot
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub stats" height="165">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub streak" height="165">
-</p>
+---
 
-### 🐍 Contribution Art
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution grid">
-</p>
+## 🏆 Highlights
+- 🏅 **Led hackathon teams** delivering production-ready MVPs under tight deadlines.  
+- 🚀 **Facilitated study groups & dev meetups**, helping peers adopt modern JS tooling.  
+- 🎯 **Built and deployed multiple full-stack projects** that improved real-world workflows.  
+- 💡 **Translated product ideas** into user-loved solutions through clear communication.  
 
-### ✨ Fun Facts
-- 🎨 Design enthusiast who loves moodboards, micro-interactions, and tight typography.
-- ☕ Fueled by coffee chats about emerging tech, product strategy, and community impact.
-- 📸 Capturing street photography or planning the next travel vlog when away from code.
+---
+
+## ✨ Fun Facts
+- 🎨 Design junkie — obsessed with micro-interactions, typography, and motion.  
+- ☕ Coffee is my debugging companion and late-night muse.  
+- 📸 I love street photography, travel vlogs, and creative storytelling.  
 
 ---
 
 <p align="center">
-  <strong>Let's build something memorable together.</strong> Drop a message or email—I'm ready for the next adventure! 🚀
+  <strong>Let's create something extraordinary.</strong><br>
+  Reach out — collaboration starts with a conversation. 🚀
+</p>
+
+---
+
+## 📊 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+</p>
+
+---
+
+## 🧩 GitHub Streak & Activity
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=radical" alt="GitHub Streak" height="150"/>
+</p>
+
+---
+
+## 💬 Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">💼 LinkedIn</a> • 
+  <a href="mailto:YOUR-EMAIL@EXAMPLE.COM">📧 Email</a> • 
+  <a href="https://twitter.com/YOUR-TWITTER-HANDLE" target="_blank">🐦 Twitter</a> • 
+  <a href="https://www.instagram.com/YOUR-INSTAGRAM-HANDLE/" target="_blank">📸 Instagram</a>
+</p>
+
+<p align="center">
+  <strong>💡 “Code. Create. Collaborate.”</strong>
 </p>

@@ -50,8 +50,8 @@
 
 ### 📈 GitHub Snapshot
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<!-- Replace with your GitHub username -->&show_icons=true&theme=radical" alt="GitHub stats" height="165">
-  <img src="https://streak-stats.demolab.com?user=<!-- Replace with your GitHub username -->&theme=radical&hide_border=true" alt="GitHub streak" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajaypalamkunnel&show_icons=true&theme=radical" alt="GitHub stats" height="165">
+  <img src="https://streak-stats.demolab.com?user=ajaypalamkunnel&theme=radical&hide_border=true" alt="GitHub streak" height="165">
 </p>
 
 ### ✨ Fun Facts

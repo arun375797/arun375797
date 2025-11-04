@@ -19,9 +19,15 @@
   <a href="https://www.instagram.com/YOUR-INSTAGRAM-HANDLE/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
+<!-- Portfolio link -->
+<p align="center">
+  <a href="https://personal-portfolio-cp13.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-1ED760?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge">
+  </a>
+</p>
 ---
 
-## 🚀 About Me-https://personal-portfolio-cp13.onrender.com
+## 🚀 About Me
 - 💼 I build full-stack applications focused on **scalability, performance, and intuitive UX**.  
 - 🧩 I believe good code is both **an art form and an engineering discipline**.  
 - 🌱 Exploring **cloud-native development, automation pipelines, and modern design systems**.  

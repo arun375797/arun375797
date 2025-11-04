@@ -8,10 +8,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/<!-- Update with your LinkedIn handle -->" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:<!-- Update with your preferred email address -->"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://twitter.com/<!-- Update with your Twitter handle -->" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://www.instagram.com/<!-- Update with your Instagram handle -->/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:YOUR-EMAIL@EXAMPLE.COM"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://twitter.com/YOUR-TWITTER-HANDLE" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.instagram.com/YOUR-INSTAGRAM-HANDLE/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 ---
@@ -53,13 +53,13 @@
 
 ### 📈 GitHub Snapshot
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<!-- Replace with your GitHub username -->&show_icons=true&theme=radical" alt="GitHub stats" height="165">
-  <img src="https://streak-stats.demolab.com?user=<!-- Replace with your GitHub username -->&theme=radical&hide_border=true" alt="GitHub streak" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub stats" height="165">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub streak" height="165">
 </p>
 
 ### 🐍 Contribution Art
 <p align="center">
-  <img src="https://github.com/<!-- Replace with your GitHub username -->/<!-- Replace with your GitHub username -->/raw/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution grid">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution grid">
 </p>
 
 ### ✨ Fun Facts
@@ -72,4 +72,3 @@
 <p align="center">
   <strong>Let's build something memorable together.</strong> Drop a message or email—I'm ready for the next adventure! 🚀
 </p>
-

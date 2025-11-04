@@ -78,10 +78,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arun375797&theme=radical" alt="GitHub Streak" height="150"/>
 </p>
 
----
 
-## ⚡ Animated Touch
-## ⚡ Animated Touch
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/arun375797/arun375797/blob/output/snake-dark.svg">
   <img alt="GitHub contribution snake animation" src="https://github.com/arun375797/arun375797/blob/output/snake.svg">

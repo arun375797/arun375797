@@ -81,9 +81,12 @@
 ---
 
 ## ⚡ Animated Touch
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
-</p>
+## ⚡ Animated Touch
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/arun375797/arun375797/blob/output/snake-dark.svg">
+  <img alt="GitHub contribution snake animation" src="https://github.com/arun375797/arun375797/blob/output/snake.svg">
+</picture>
+
 
 ---
 

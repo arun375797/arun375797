@@ -25,6 +25,7 @@
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-1ED760?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge">
   </a>
 </p>
+
 ---
 
 ## 🚀 About Me
@@ -84,12 +85,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arun375797&theme=radical" alt="GitHub Streak" height="150"/>
 </p>
 
-
+<!-- GitHub Contribution Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/arun375797/arun375797/blob/output/snake-dark.svg">
   <img alt="GitHub contribution snake animation" src="https://github.com/arun375797/arun375797/blob/output/snake.svg">
 </picture>
-
 
 ---
 
